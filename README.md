@@ -12,5 +12,5 @@
 
 **Description:** Python project containing a Jupyter Notebook used for creating a pipeline to deal with data, performing visualizations, data preparation, modeling, etc.
 
-![Postman Screenshot](postman.png)
+![Postman Screenshot](postman.PNG)
 
